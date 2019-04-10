@@ -19,5 +19,5 @@ class Q2
 		}
 		System.out.print("Grade C");
 	}
-
+	System.out.print("Done...! ");
 }
